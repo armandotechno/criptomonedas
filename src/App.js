@@ -4,7 +4,7 @@ import axios from 'axios';
 import imagen from './cryptomonedas.png';
 import Formulario from './components/Formulario';
 import Cotizacion from './components/Cotizacion';
-import Spinner from './components/Spinner';
+import Spinner from './components/Spinner';git 
 
 const Contenedor = styled.div`
   max-width: 900px;
